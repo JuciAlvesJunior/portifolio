@@ -163,7 +163,8 @@ body {
          width:auto ;
          
       }
-      @media( max-width:600px){
+   }
+      @media( max-width:600px) {
          .cabecalho__menu{
             display:flex;
             text-align: center;
@@ -189,5 +190,4 @@ body {
       .apresentacao__conteudo__texto__portifolio{
          font-size: 20px;
       }
-      
-   }
+      }
